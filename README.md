@@ -1,5 +1,3 @@
-GITHUB EDITOR TEST
-
 # PhraseMaker
 Simple random string concatenantion I used to help my friends make band names and songs. 
 What you like is saved to a text file, what you discard is saved as well, so it is not used again. 
