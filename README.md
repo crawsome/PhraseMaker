@@ -7,10 +7,10 @@ What you like is saved to a text file, what you discard is saved as well, so it 
 2. 0 to exit, 1 to keep, 2 to trash
 
 # Developer Ideas:
-3. Word Format: \<optional beginning word> + \<random dictionary word> + \<random dictionary word> + \<optional ending phrase>
-4. Add more phrases to the beginning and ending. 
-5. Make individual dictionairies on parts of speech
-6. Give User the ability to query an actual dictionary for the defeinition of any word given. 
+* Word Format: \<optional beginning word> + \<random dictionary word> + \<random dictionary word> + \<optional ending phrase>
+* Add more phrases to the beginning and ending. 
+* Make individual dictionairies on parts of speech
+* Give User the ability to query an actual dictionary for the defeinition of any word given. 
 
 # Some good outputs:
 * "There was a illegitimation Donald"
